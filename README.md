@@ -1,6 +1,7 @@
 # paper-fork-making-guide
 (Chinese only &amp; WIP) 📖 一份制作关于如何制作你自己的 Paper 分支的指南。\
-此为鄙人首次编写教程向文章，Markdown 与 Java 水平不高，若出现问题可以提交 Issue 或联系我。
+此为鄙人首次编写教程向文章，Markdown 与 Java 水平不高，若出现问题可以提交 Issue 或联系我。\
+文章内容均为鄙人开始开发 Bubble 项目以来的经验之谈，关于这方面的文档是少之又少。
 
 ### 准备工作
 #### 一些你会需要的东西
